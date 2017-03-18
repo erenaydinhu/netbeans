@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="eren.hu.nl">
+    <module_version install_time="1489880092998" last="true" origin="installer" specification_version="1.0">
+        <file crc="3215624628" name="config/Modules/eren-hu-nl.xml"/>
+        <file crc="3965392747" name="modules/eren-hu-nl.jar"/>
+    </module_version>
+</module>
